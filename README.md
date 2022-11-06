@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on  vscode
-- 🌱 I’m currently learning  git and typescript
-- 👯 I’m looking to collaborate on  vscode
-- 🤔 I’m looking for help with  git
-- 💬 Ask me about  vscode
-- 📫 How to reach me:  andrewjohnroy@gmail.com
-- 😄 Pronouns:  he/him/his
-- ⚡ Fun fact:  I only started working on vscode recently
+- 🔭 I’m currently working on a allpick lane spammer for 
+- 🌱 I’m currently learning the keyboard pip package
+- 👯 I’m looking to collaborate on this
+- 🤔 I’m looking for help with git
+- 💬 Ask me about my program
+- 📫 How to reach me: andrewjohnroy@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I mostly spend time doing algorithm and data structure challenges than making projects
 
