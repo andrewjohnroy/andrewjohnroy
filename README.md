@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a allpick lane spammer for 
+- 🔭 I’m currently working on a allpick lane spammer for league of legends
 - 🌱 I’m currently learning the keyboard pip package
 - 👯 I’m looking to collaborate on this
 - 🤔 I’m looking for help with git
